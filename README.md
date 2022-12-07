@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LexiphanicStroon, I'm a student making my way through my diploma in Full stack web development. 
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning Object Oriented Programming
+- 🌱 I’m currently learning Full Stack Web Development using ASP.Net Core framework
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me @ nate_reeves@outlook.com
 
