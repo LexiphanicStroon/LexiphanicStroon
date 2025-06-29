@@ -1,20 +1,19 @@
-# Hi there, I'm LexiphanicStroon! 👋
+# Hi there, I'm LexiphanicStroon!
 
 Welcome to my GitHub profile! I'm passionate about coding, learning, and contributing to open-source projects. Here's a little about me:
 
-## 🌟 About Me
-- 🧑‍💻 **Developer**: Always exploring new technologies and building innovative projects.
-- 📘 **Lifelong Learner**: Enthusiastic about improving my skills and staying updated with the latest trends in tech.
+## About Me
+- 🧑‍💻 **Developer**: I'm currently working as an application developer, and own a web design agency, Space Proof. 
 
 ## 💻 Tech Stack
-- **Languages**: JavaScript, Java, Ruby, C
+- **Languages**: JavaScript, Java
 - **Frameworks & Libraries**: React, Node.js, THREE.js
 
 ## 🌱 Current Focus
 I'm currently diving deep into:
-- Graphics programming in the browser, THREE.js, Cannon.js for physics
-- Cloud Computing and DevOps
-- Medusa.js for custom E-Commerce apps
+- Rust 
+- RTC 
+- HTTP
 
 ## 📫 Let's Connect
 - 💼 LinkedIn: [LexiphanicStroon]([https://linkedin.com/in/LexiphanicStroon](https://www.linkedin.com/in/nathanielreeves/))
