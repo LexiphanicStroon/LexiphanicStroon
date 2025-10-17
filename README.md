@@ -1,19 +1,18 @@
-# Hi there, I'm LexiphanicStroon!
+# Hi there, I'm LexiphanicStroon
 
 Welcome to my GitHub profile! I'm passionate about coding, learning, and contributing to open-source projects. Here's a little about me:
 
 ## About Me
-- 🧑‍💻 **Developer**: I'm currently working as an application developer, and own a web design agency, Space Proof. 
+- 🧑‍💻 **Developer**: I'm currently working as an application developer, and own a digital consulting agency, Space Proof. 
 
 ## 💻 Tech Stack
-- **Languages**: JavaScript, Java
-- **Frameworks & Libraries**: React, Node.js, THREE.js
+- **Tech Stack**: JavaScript, React, Tailwind, Next.js, Express.js
 
 ## 🌱 Current Focus
 I'm currently diving deep into:
-- Rust 
-- RTC 
-- HTTP
+- JLWGL
+- OPENGL
+- JAVA
 
 ## 📫 Let's Connect
 - 💼 LinkedIn: [LexiphanicStroon]([https://linkedin.com/in/LexiphanicStroon](https://www.linkedin.com/in/nathanielreeves/))
@@ -31,4 +30,4 @@ I'm currently diving deep into:
 
 ---
 
-✨ *Feel free to explore my repositories and drop a star if you find something interesting!* ✨
+*Feel free to explore my repositories and drop a star if you find something interesting!*
