@@ -3,25 +3,23 @@
 Welcome to my GitHub profile! I'm passionate about coding, learning, and contributing to open-source projects. Here's a little about me:
 
 ## About Me
-- 🧑‍💻 **Developer**: I'm currently working as an application developer, and own a digital consulting agency, Space Proof. 
+-**Developer**: I'm currently working as an application developer, and own a digital agency, Space Proof. 
 
-## 💻 Tech Stack
+## Tech Stack
 - **Tech Stack**: JavaScript, React, Tailwind, Next.js, Express.js
 
-## 🌱 Current Focus
+## Current Focus
 I'm currently diving deep into:
-- JLWGL
-- OPENGL
-- JAVA
+- AI controlled UI for web apps
 
-## 📫 Let's Connect
+## Connect
 - 💼 LinkedIn: [LexiphanicStroon]([https://linkedin.com/in/LexiphanicStroon](https://www.linkedin.com/in/nathanielreeves/))
 - 📧 Email: [hello@spaceproof.tech](mailto:hello@spaceproof.tech)
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![LexiphanicStroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LexiphanicStroon&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
+## Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LexiphanicStroon&theme=radical)
 
 ## 🌟 Top Repositories
