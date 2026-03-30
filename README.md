@@ -34,7 +34,7 @@ Manitoba-based dev who builds things for the web. Full-stack by trade, obsessed 
 
 ## GitHub Stats
 
-![LexiphanicStroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LexiphanicStroon&show_icons=true&theme=radical)
+![LexiphanicStroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LexiphanicStroon&show_icons=true&theme=radical&cache_seconds=1800)
 
 ## Streak Stats
 
@@ -42,9 +42,9 @@ Manitoba-based dev who builds things for the web. Full-stack by trade, obsessed 
 
 ## 🌟 Top Repositories
 
-[![materials](https://github-readme-stats.vercel.app/api/pin/?username=LexiphanicStroon&repo=materials&theme=radical)](https://github.com/LexiphanicStroon/materials)
-
-[![WebsiteScraper](https://github-readme-stats.vercel.app/api/pin/?username=LexiphanicStroon&repo=WebsiteScraper&theme=radical)](https://github.com/LexiphanicStroon/WebsiteScraper)
+## 🌟 Top Repositories
+- [materials](https://github.com/LexiphanicStroon/materials)
+- [WebsiteScraper](https://github.com/LexiphanicStroon/WebsiteScraper)
 
 ---
 
