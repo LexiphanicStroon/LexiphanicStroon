@@ -8,10 +8,6 @@ Webmaster and Application Developer.
 - 📧 [hello@spaceproof.tech](mailto:hello@spaceproof.tech)
 - 🌐 [spaceproof.tech](https://spaceproof.tech)
 
-## GitHub Stats
-
-![LexiphanicStroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LexiphanicStroon&show_icons=true&theme=radical&cache_seconds=1800)
-
 ## 🌟 Top Repositories
 
 ## 🌟 Top Repositories
