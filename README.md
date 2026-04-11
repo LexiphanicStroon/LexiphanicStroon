@@ -8,9 +8,7 @@ Webmaster and Application Developer.
 - 📧 [hello@spaceproof.tech](mailto:hello@spaceproof.tech)
 - 🌐 [spaceproof.tech](https://spaceproof.tech)
 
-## 🌟 Top Repositories
-
-## 🌟 Top Repositories
+## Top Repositories
 - [materials](https://github.com/LexiphanicStroon/materials)
 - [WebsiteScraper](https://github.com/LexiphanicStroon/WebsiteScraper)
 
