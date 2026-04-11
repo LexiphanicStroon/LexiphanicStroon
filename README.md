@@ -12,10 +12,6 @@ Webmaster and Application Developer.
 
 ![LexiphanicStroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LexiphanicStroon&show_icons=true&theme=radical&cache_seconds=1800)
 
-## Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LexiphanicStroon&theme=radical)
-
 ## 🌟 Top Repositories
 
 ## 🌟 Top Repositories
